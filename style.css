@@ -19,7 +19,7 @@
     margin: 10px 10px 10px 10px;
     border-bottom: 2px solid rgb(56, 56, 227);
     border-right: 3px solid blueviolet;
-    width: 24%;
+    width: 20rem;
     box-shadow: 5px 8px 5px black;
     background-color:#9933ff;
     
@@ -55,7 +55,7 @@ footer{
     margin-bottom: 80px;
 }
 .big{
-    color: rgb(158, 76, 234);
+    /* color: rgb(158, 76, 234); */
     text-decoration: solid;
     text-shadow: 1px 1.5px 1px #4dffff;
 }
